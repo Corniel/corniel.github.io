@@ -1,14 +1,14 @@
 # Enforce project dependencies
 Lately, I’ve had some discussions with colleagues about project dependencies.
-Long version short: they where not aware about the reasoning, and therefor
+Long version short: they were not aware about the reasoning, and therefore
 violated the original intend. Some of them countered with: but, where is the
 documentation?
 
 A fair point.
 
-For our project, we now have a reply: its is in the specs! And if you violate
+For our project, we now have a reply: it is in the specs! And if you violate
 them, assertions will fail. And more over, you can read why those changes
-where not a good idea.
+were not a good idea.
 
 Thanks to [Fluent Assertions](https://fluentassertions.com/), it is easy to
 write these specs. Feel inspired!
