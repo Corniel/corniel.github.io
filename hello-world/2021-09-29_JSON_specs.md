@@ -71,11 +71,11 @@ namespace MyProject.Serialization
 Obviously, if you don't use `GraphQL` or `HttpContent` related serialization,
 leave the methods out.
 
-Furthermore, whatever you want to set in `Json.Initialize()` is op to the project
+Furthermore, whatever you want to set in `Json.Initialize()` is up to the project
 requirements, this only gives an impression of what you might want to define.
 
 ## Registration
-Once you register your preferences, you're happy to go:
+Once you register your preferences, you're good to go:
 ``` C#
 namespace MyProject.Api
 {
@@ -89,7 +89,7 @@ namespace MyProject.Api
 }
 ```
 It might be worth pointing out that in this example I used `Newtonsoft.Json`,
-but that the same technique also can be applied using `System.Text.Json`.
+but that same technique also can be applied using `System.Text.Json`.
 
 Furthermore, reading from or creating `HttpContent` is not affected by
 the registered preferences in the `Startup`. That's why, in this example,
