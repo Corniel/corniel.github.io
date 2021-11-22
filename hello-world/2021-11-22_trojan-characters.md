@@ -27,3 +27,7 @@ and Visual Basic), I have a solution for you: use these Roslyn Analyzers:
  * [Qowaiv.Analyzers.VisualBasic](https://www.nuget.org/packages/Qowaiv.Analyzers.VisualBasic)
 
 They will report any violation of this kind as a compiler warning.
+
+## Further reading
+ * https://certitude.consulting/blog/en/invisible-backdoor/
+ * https://dev.to/dotnetsafer/rip-copy-and-paste-from-stackoverflow-trojan-source-solution-4p8f
