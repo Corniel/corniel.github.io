@@ -1,14 +1,14 @@
 ﻿# Social Coding
 ## What we can learn from the open source community
 
-It was about 10 years a go that the lessons learned from the
+It was about ten years ago that the lessons learned from the
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
-where - in some form - adapted by the company I was working for; we started to
+where - in some form - adopted by the company I was working for; we started to
 work in _sprints_, and arranged work in _epics_, _stories_, and _work items_.
 
 A great improvement in the way of working - although the almost religious
 adoption by some was counterproductive. At the other side of the spectrum, some
-could not really let go the good old waterfall; Stories themselves where (small)
+could not really let go the good old waterfall; Stories themselves were (small)
 waterfalls, leaving no room for discussion, and new insights while coding.
 
 However, the creation of a pull request has been treated - by most - as the
