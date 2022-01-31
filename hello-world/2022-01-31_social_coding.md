@@ -21,7 +21,7 @@ approve with the approach, but it also makes it harder for others to come up
 with suggestions. On top of that, for a reviewer it can be overwhelming to be
 confronted with a zillion code changes at once.
 
-The alternative way of working is called [social coding](https://coding.social/)
+The alternative way of working is called [social coding](https://opentechschool.github.io/social-coding/)
 and is highly adopted by the open source community, and is the fundamental
 to the way [GitHub](https://github.org) works. A (draft) pull request is there
 the starting point of the discussion/change, followed by multiple iterations
