@@ -1,6 +1,8 @@
 ﻿# Social Coding
 ## What we can learn from the open source community
 
+![GitHub social coding - Build software better together](2022-01-31_social_coding.webp)
+
 It was about ten years ago that the lessons learned from the
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 where - in some form - adopted by the company I was working for; we started to
@@ -25,7 +27,7 @@ to the way [GitHub](https://github.org) works. A (draft) pull request is there
 the starting point of the discussion/change, followed by multiple iterations
 reviewed and discussed by (multiple) reviewer(s) and (co) contributer(s).
 
-To make this work with a company, by default (sometimes their a legal
+To make this work with a company, by default (sometimes there are legal
 limitations), all developers/tests should have read access to all source code.
 Reviewers should not be limited to team that is responsible for the code base -
 for simple bug fixes, you might not want to bother other teams though - and
