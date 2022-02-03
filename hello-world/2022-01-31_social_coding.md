@@ -29,7 +29,7 @@ reviewed and discussed by (multiple) reviewer(s) and (co) contributer(s).
 
 To make this work with a company, by default (sometimes there are legal
 limitations), all developers/tests should have read access to all source code.
-Reviewers should not be limited to team that is responsible for the code base -
+Reviewers should not be limited to a team that is responsible for the code base -
 for simple bug fixes, you might not want to bother other teams though - and
 ideally, multiple reviewers are involved.
 
