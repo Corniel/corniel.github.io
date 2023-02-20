@@ -6,8 +6,8 @@ do not allow you to change the behaviour of the (system) clock/date time provide
 So how to overcome this problem?
 
 ## Stubable Date Time provider
-With the addoption of depdency injection/inverse of control, most programmers
-have developed a habbit of creating services for everything. DI frameworks do
+With the adoption of dependency injection/inverse of control, most programmers
+have developed a habit of creating services for everything. DI frameworks do
 most of the work, and a (unit) test implementation helps while testing.
 
 ``` C#
@@ -24,31 +24,34 @@ is the same for all implementations:
 ``` C#
 public abstract class Clock
 {
-	public static readonly Clock System = new SystemClock();
+    public static readonly Clock System = new SystemClock();
 
-	public abstract DateTime UtcNow();
-	
-	public DateOnly Today() => DateOnly.FromDateTie(UtcNow());
-	
-	public DateOnly Yesterday() => Today().AddDays(-1);
-	
-	public override ToString() => UtcNow().ToString("U");
+    public abstract DateTime UtcNow();
+    
+    public DateOnly Today() => DateOnly.FromDateTime(UtcNow());
+    
+    public DateOnly Yesterday() => Today().AddDays(-1);
+    
+    public override ToString() => UtcNow().ToString("U");
 
     private sealed class SystemClock : Clock
-	{
-	    public override DateTime UtcNow() => DateTime.UtcNow;
-	}
+    {
+        public override DateTime UtcNow() => DateTime.UtcNow;
+    }
 }
 
-public sealed class TestClock
-	{
-		public TestClock(DateTime time) => Time = time;
-	    
-		private readonly DateTime Time;
-		
-		public override DateTime UtcNow() => Time;
-	}
+public sealed class TestClock : Clock
+{
+    public TestClock(DateTime time) => Time = time;
+    
+    private readonly DateTime Time;
+    
+    public override DateTime UtcNow() => Time;
+}
 ```
+
+Now, in your startup, you simply can define `services.AddSingleton(Clock.System)`,
+and in you test you use `new TestClock(new DateTime(...))`.
 
 ## Singleton delegate
 The disadvantage of having an injectable date time provider is obviously that
@@ -61,16 +64,16 @@ So how can we fix the (original) issue? Lets have a look at this snippet:
 ``` C#
 public static Clock
 {
-	public static DateTime UtcNow() => (localUtcNow.Value ?? globalUtcNow).Invoke();
+    public static DateTime UtcNow() => (localUtcNow.Value ?? globalUtcNow).Invoke();
 
     public static void SetTime(Func<DateTime> time) => globalUtcNow = time;
-	
+    
     public static IDisposable SetTimeForCurrentContext(Func<DateTime> time) => new TimeScope(time);
-	
-	private readonly static AsyncLocal<Func<DateTime>?> localUtcNow = new();
-	private static Func<DateTime> globalUtcNow = () => DateTime.UtcNow;
-	
-	private sealed class TimeScope : IDisposable
+    
+    private readonly static AsyncLocal<Func<DateTime>?> localUtcNow = new();
+    private static Func<DateTime> globalUtcNow = () => DateTime.UtcNow;
+    
+    private sealed class TimeScope : IDisposable
     {
         public TimeScope(Func<DateTime> time)
         {
@@ -91,9 +94,9 @@ test it we just use:
 public void SomeTest()
 {
     using(Clock.SetTimeForCurrentContext(() => new DateTime(2017, 06, 11)))
-	{
-		// Within this scope, Clock.UtcNow() will return 2017-06-11
-	}
+    {
+        // Within this scope, Clock.UtcNow() will return 2017-06-11
+    }
 }
 ```
 
