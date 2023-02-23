@@ -53,7 +53,7 @@ public sealed class TestClock : Clock
 Now, in your startup, you simply can define `services.AddSingleton(Clock.System)`,
 and in you test you use `new TestClock(new DateTime(...))`.
 
-## Singleton delegate
+## Adjustable singleton delegate
 The disadvantage of having an injectable date time provider is obviously that
 you have to pass it through. There is, however, an other way, and I prefer this
 one in almost all cases: A (testable) singleton delegate.
@@ -103,5 +103,28 @@ public void SomeTest()
 Tests using this construct can run in parallel, and use `async/await` thanks to
 Microsoft's [`AsyncLocal<T>`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1).
 
-The open source library [Qowaiv](https://github.com/Qowaiv/Qowaiv) contains a
-Clock like this, including a way to have the same behaviour for time zones.
+Note that the open source library [Qowaiv](https://github.com/Qowaiv/Qowaiv)
+contains a Clock like this, including a way to have the same behaviour for
+time zones.
+
+## Date Time provider v.s. Adjustable singleton delegate
+The valid question is: when to use which option? When you build an application
+that does not share any code (as a package) with others, the adjustable singleton
+delegate is the way to go, I would argue. It's usage is straightforward, and
+within the boundaries of your application, you can easily guarantee that anly
+that mechanism is used. 
+
+Whe shipping a redistributable library that happens to need a date time provider,
+I would advise to use provide the simplest date time provider interface possible.
+The actual application can implement that interface using the adjustable
+singleton delegate.
+
+``` C#
+public sealed class ClockBasedTimeProvider : IDateTimeProvider
+{
+    public DateTime UtcNow() => Clock.UtcNow();
+}
+```
+
+With an implementation like that, when under test, the provider does not have
+to be changed, as it behaves the same as the adjustable singleton delegate.
