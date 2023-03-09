@@ -3,7 +3,12 @@ Every developer that ever build an application that has any time dependency
 knows that testing such dependencies is not straight forward. The most pressing
 issue is arguably that most programming languages (including C#, PHP, Java, SQL)
 do not allow you to change the behaviour of the (system) clock/date time provider.
-So how to overcome this problem?
+
+By creating an abstraction for the clock, we can overcome this problem. I'll show
+you several ways, including my favorite one, the [adjustable singleton delegate](#adjustable-singleton-delegate).
+
+To make sure all occurences of `DateTime.UtcNow` (and `DateTime.Now`, `DateTime.Today`)
+are refactored, we can enable Sonar's [S6354](https://rules.sonarsource.com/csharp/RSPEC-6354) rule.
 
 ## Stubable Date Time provider
 With the adoption of dependency injection/inverse of control, most programmers
@@ -59,7 +64,8 @@ you have to pass it through. There is, however, an other way, and I prefer this
 one in almost all cases: A (testable) singleton delegate.
 
 It is for obvious reasons that .NET contains `DateTime.Now`: is easy to use!
-So how can we fix the (original) issue? Lets have a look at this snippet:
+So how can we implement a testable clock without the need to inject it? Lets
+have a look at this snippet:
 
 ``` C#
 public static Clock
@@ -111,10 +117,10 @@ time zones.
 The valid question is: when to use which option? When you build an application
 that does not share any code (as a package) with others, the adjustable singleton
 delegate is the way to go, I would argue. It's usage is straightforward, and
-within the boundaries of your application, you can easily guarantee that anly
+within the boundaries of your application, you can easily guarantee that only
 that mechanism is used. 
 
-Whe shipping a redistributable library that happens to need a date time provider,
+When shipping a redistributable library that happens to need a date time provider,
 I would advise to use provide the simplest date time provider interface possible.
 The actual application can implement that interface using the adjustable
 singleton delegate.
