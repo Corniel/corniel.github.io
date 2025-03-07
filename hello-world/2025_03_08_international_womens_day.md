@@ -5,7 +5,7 @@ My great-grandmother (the mother of the mother of my mother) is without any
 doubt someone who inspired my career, even if she did not live to see the result.
 
 Born in april 1895, she was the only relative I ever knew who was born in the
-19th century. She was the youngest of thirteen children who became a kindergarden
+19th century. She was the youngest of thirteen children who became a kindergarten
 teacher until she married (she was fired as result, which was law back in the
 day in the Netherlands, and not only there). 
 
@@ -35,7 +35,7 @@ my remedial teacher Ellen Post. I'm still in her debt 30 years later.
 I was not an easy going kid. I was (still am) hot-tempered, easily distracted,
 and hyperly active. As a result, my schoolresults were not that great,
 although I had (fairly) good results for arithmetics and maths. My behavior was
-really problematic at times, to the extend that I even was expelled temporary
+really problematic at times, to the extend that I even was expelled temporarily
 from school once.
 
 But Ellen believed in me. When some colleagues proposed to expel me permanently,
@@ -50,5 +50,5 @@ If it wasn't for her, I would never have been able to go to university, a life
 changing event, which without I most likely never would have become a software
 engineer. Thank you again.
 
-I think the world is a better place due to the existance of these extraordinary
-women, who I was lukcy to know.
+I think the world is a better place due to the existence of these extraordinary
+women, who I was lucky to know.
