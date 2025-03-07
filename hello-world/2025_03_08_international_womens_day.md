@@ -38,7 +38,7 @@ although I had (fairly) good results for arithmetics and maths. My behavior was
 really problematic at times, to the extend that I even was expelled temporary
 from school once.
 
-But Ellen believed in me. When some colleagues proposed to expel me permently,
+But Ellen believed in me. When some colleagues proposed to expel me permanently,
 she used her influence to convince them not only to let me stay, but also
 to let me pass the forth grade. On top of that she aranged that I could follow
 an extra subject, required to go to university. Without here, that would have
