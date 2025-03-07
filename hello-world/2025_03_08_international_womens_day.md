@@ -44,7 +44,7 @@ to let me pass the fourth grade. On top of that she arranged that I could follow
 an extra subject, required to go to university. Without her, that would not
 have happened.
 
-She helped me believing in myself, something I did not do at the time. 
+She helped me believe in myself, something I did not do at the time. 
  
 If it wasn't for her, I would never have been able to go to university, a life
 changing event, which without I most likely never would have become a software
