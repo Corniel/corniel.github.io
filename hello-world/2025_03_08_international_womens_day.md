@@ -14,8 +14,8 @@ age of 5 (my greandmother), 3, and 1 year old. She rebranded the store she and
 her husband husband owned, from furnature to yarn (as no men in these days would
 buy furnature from a woman, or take her advise on the subject).
 
-She sent all her daughters to the [MULO](https://en.wikipedia.org/wiki/Meer_Uitgebreid_Lager_Onderwijs),
-a form of extended primary education which was definitaly frowned up by some,
+She sent all her daughters to the [MULO](https://en.wikipedia.org/wiki/Meer_Uitgebreid_Lager_Onderwijs)
+(a form of extended primary education). This was definitively frowned up by some,
 as it was not considered useful for women to get educated beyond the bare
 minimum in the 30's of the previous centery. She did it anyway because she
 strongly believed that education was the only way to become financially
@@ -34,15 +34,21 @@ my remedial teacher Ellen Post. I'm still in her debt 30 years later.
 
 I was not an easy going kid. I was (still am) hot-tempred, easly distracted,
 and hyperly active. As a result, my schoolresults where not that great,
-although had (fairly) good results for arithmetics and maths. My behavior was
-really problematic, ot the extend that I even was expelled temporary from
-school once.
+although I had (fairly) good results for arithmetics and maths. My behavior was
+really problematic at times, to the extend that I even was expelled temporary
+from school once.
 
-But Ellen believed in me. She single handedly convinced her colleagues to not
-expel me permently, but to pass to the forth grate, and to allow me to follow
-extra subjects, required to go to university. In the process she restored 
-- at least a bit - of my self-esteem, and helped me working on my behavior.
+But Ellen believed in me. When some colleagues proposed to expel me permently,
+she used her influence to to convince them not only to let me stay, but also
+to let me pass the forth grade. On top of that she aranged that I could follow
+an extra subject, required to go to university. Without here, that would have
+not happend.
 
+She helped me believing in myself, something I did not do at the time. 
+ 
 If it was for her, I would never have been able to go to university, a life
 changing event which without I most likely never would have become a software
 engineer. Thank you again.
+
+I think the world is a better place due to the existance of these extraordinary
+women, who I was lukcy to know.
