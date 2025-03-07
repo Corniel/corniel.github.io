@@ -17,7 +17,7 @@ buy furniture from a woman, or take her advice on the subject).
 She sent all her daughters to the [MULO](https://en.wikipedia.org/wiki/Meer_Uitgebreid_Lager_Onderwijs)
 (a form of extended primary education). This was definitively frowned up by some,
 as it was not considered useful for women to get educated beyond the bare
-minimum in the 30's of the previous centery. She did it anyway because she
+minimum in the 30's of the previous century. She did it anyway because she
 strongly believed that education was the only way to become financially
 independent.
 
