@@ -5,7 +5,7 @@ My great-grandmother (the mother of the mother of my mother) is without any
 doubt someone who inspired my career, even if she did not live to see the result.
 
 Born in april 1895, she was the only relative I ever knew who was born in the
-19th century. Se was the youngest of thirteen children wo became a kindergarden
+19th century. She was the youngest of thirteen children who became a kindergarden
 teacher until she married (she was fired as result, which was common law back
 in the day in the Netherlands, and not only there). 
 
