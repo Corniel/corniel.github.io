@@ -11,8 +11,8 @@ in the day in the Netherlands, and not only there).
 
 Her husband died when she was just 32 years old, mother of 3 daughters, in the
 age of 5 (my grandmother), 3, and 1 year old. She rebranded the store she and
-her husband husband owned, from furnature to yarn (as no men in these days would
-buy furnature from a woman, or take her advise on the subject).
+her husband owned, from furniture to yarn (as no men in these days would
+buy furniture from a woman, or take her advice on the subject).
 
 She sent all her daughters to the [MULO](https://en.wikipedia.org/wiki/Meer_Uitgebreid_Lager_Onderwijs)
 (a form of extended primary education). This was definitively frowned up by some,
