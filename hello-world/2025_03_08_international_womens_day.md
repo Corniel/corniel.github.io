@@ -22,10 +22,10 @@ strongly believed that education was the only way to become financially
 independent.
 
 That mindset shaped both my grandmother and mother and were also key to how
-I was raised, and now raise my daughter. The fact that she lived another
-sixty years as a widow, was around when Women's suffrage was granted in the
-Netherlands in 1917 and survived two world wars, also trigged my interest in
-history. She died when I was just 8 years old, but I already understood
+I was raised, and now raise my daughter. The fact that my great-grandmother
+lived another sixty years as a widow, was around when Women's suffrage was
+granted in the Netherlands in 1917 and survived two world wars, also trigged my
+interest in history. She died when I was just 8 years old, but I already understood
 how special she was.
 
 ## Ellen Post
