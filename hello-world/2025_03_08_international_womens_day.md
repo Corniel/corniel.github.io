@@ -21,12 +21,12 @@ minimum in the 30's of the previous centery. She did it anyway because she
 strongly believed that education was the only way to become financially
 independent.
 
-That mindset shaped both my grandmother and mother and where key to how also
-I was raised, and now raise my daughter.  The fact that she lived another
+That mindset shaped both my grandmother and mother and were also key to how
+I was raised, and now raise my daughter. The fact that she lived another
 sixty years as a widow, was around when Women's suffrage was granted in the
-Netherlands in 1917, survived two world wars, also trigged my intereset in
+Netherlands in 1917 and survived two world wars, also trigged my interest in
 history. She died when I was just 8 years old, but I already understood
-who special she was
+how special she was.
 
 ## Ellen Post
 The key figure in my education, the one who safed my from failing at school is
