@@ -32,7 +32,7 @@ how special she was.
 The key figure in my education, the one who saved me from failing at school is
 my remedial teacher Ellen Post. I'm still in her debt 30 years later.
 
-I was not an easy going kid. I was (still am) hot-tempred, easly distracted,
+I was not an easy going kid. I was (still am) hot-tempered, easily distracted,
 and hyperly active. As a result, my schoolresults where not that great,
 although I had (fairly) good results for arithmetics and maths. My behavior was
 really problematic at times, to the extend that I even was expelled temporary
