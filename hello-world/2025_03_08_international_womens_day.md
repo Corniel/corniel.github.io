@@ -9,7 +9,7 @@ Born in april 1895, she was the only relative I ever knew who was born in the
 teacher until she married (she was fired as result, which was common law back
 in the day in the Netherlands, and not only there). 
 
-Her housband died when she was just 32 years old, mother of 3 daughters, in the
+Her husband died when she was just 32 years old, mother of 3 daughters, in the
 age of 5 (my grandmother), 3, and 1 year old. She rebranded the store she and
 her husband husband owned, from furnature to yarn (as no men in these days would
 buy furnature from a woman, or take her advise on the subject).
