@@ -29,7 +29,7 @@ history. She died when I was just 8 years old, but I already understood
 how special she was.
 
 ## Ellen Post
-The key figure in my education, the one who safed my from failing at school is
+The key figure in my education, the one who saved me from failing at school is
 my remedial teacher Ellen Post. I'm still in her debt 30 years later.
 
 I was not an easy going kid. I was (still am) hot-tempred, easly distracted,
