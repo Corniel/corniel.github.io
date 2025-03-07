@@ -46,8 +46,8 @@ not happend.
 
 She helped me believing in myself, something I did not do at the time. 
  
-If it was for her, I would never have been able to go to university, a life
-changing event which without I most likely never would have become a software
+If it wasn't for her, I would never have been able to go to university, a life
+changing event, which without I most likely never would have become a software
 engineer. Thank you again.
 
 I think the world is a better place due to the existance of these extraordinary
