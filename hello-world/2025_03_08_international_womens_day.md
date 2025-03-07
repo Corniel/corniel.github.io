@@ -41,8 +41,8 @@ from school once.
 But Ellen believed in me. When some colleagues proposed to expel me permanently,
 she used her influence to convince them not only to let me stay, but also
 to let me pass the fourth grade. On top of that she arranged that I could follow
-an extra subject, required to go to university. Without here, that would have
-not happend.
+an extra subject, required to go to university. Without her, that would not
+have happened.
 
 She helped me believing in myself, something I did not do at the time. 
  
