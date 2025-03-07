@@ -1,0 +1,48 @@
+# A tribute to two women who enabled my career
+
+## My great-grandmother
+My great-grandmother (the mother of the mother of my mother) is without any
+doubt someone who inspired my career, even if she did not live to see the result.
+
+Born in april 1895, she was the only relative I ever knew who was born in the
+19th century. Se was the youngest of thirteen children wo became a kindergarden
+teacher until she married (she was fired as result, which was common law back
+in the day in the Netherlands, and not only there). 
+
+Her housband died when she was just 32 years old, mother of 3 daughters, in the
+age of 5 (my greandmother), 3, and 1 year old. She rebranded the store she and
+her husband husband owned, from furnature to yarn (as no men in these days would
+buy furnature from a woman, or take her advise on the subject).
+
+She sent all her daughters to the [MULO](https://en.wikipedia.org/wiki/Meer_Uitgebreid_Lager_Onderwijs),
+a form of extended primary education which was definitaly frowned up by some,
+as it was not considered useful for women to get educated beyond the bare
+minimum in the 30's of the previous centery. She did it anyway because she
+strongly believed that education was the only way to become financially
+independent.
+
+That mindset shaped both my grandmother and mother and where key to how also
+I was raised, and now raise my daughter.  The fact that she lived another
+sixty years as a widow, was around when Women's suffrage was granted in the
+Netherlands in 1917, survived two world wars, also trigged my intereset in
+history. She died when I was just 8 years old, but I already understood
+who special she was
+
+## Ellen Post
+The key figure in my education, the one who safed my from failing at school is
+my remedial teacher Ellen Post. I'm still in her debt 30 years later.
+
+I was not an easy going kid. I was (still am) hot-tempred, easly distracted,
+and hyperly active. As a result, my schoolresults where not that great,
+although had (fairly) good results for arithmetics and maths. My behavior was
+really problematic, ot the extend that I even was expelled temporary from
+school once.
+
+But Ellen believed in me. She single handedly convinced her colleagues to not
+expel me permently, but to pass to the forth grate, and to allow me to follow
+extra subjects, required to go to university. In the process she restored 
+- at least a bit - of my self-esteem, and helped me working on my behavior.
+
+If it was for her, I would never have been able to go to university, a life
+changing event which without I most likely never would have become a software
+engineer. Thank you again.
