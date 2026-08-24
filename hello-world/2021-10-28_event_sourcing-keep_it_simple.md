@@ -1,4 +1,4 @@
-﻿# Event Sourcing
+# Event Sourcing
 ## Keep it simple!
 
 During the [Delft Developers Meetup Event](https://www.meetup.com/delft-developers-group/events/281520687/)

@@ -1,4 +1,4 @@
-﻿# .NET Zuid
+# .NET Zuid
 ## Single Value Objects
 
 Earlier this year, I was contacted by someone from [.NET Zuid](https://www.dotnetzuid.nl/);

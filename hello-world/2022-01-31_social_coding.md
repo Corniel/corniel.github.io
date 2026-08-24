@@ -1,4 +1,4 @@
-﻿# Social Coding
+# Social Coding
 ## What we can learn from the open source community
 
 ![GitHub social coding - Build software better together](2022-01-31_social_coding.webp)

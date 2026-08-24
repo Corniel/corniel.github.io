@@ -1,4 +1,4 @@
-﻿# dot Ned { Saturday }
+# dot Ned { Saturday }
 ## Static Code Analysis
 
 It was nice to be back a third time at [dot Ned { Saturday }](https://dotnedsaturday.nl).

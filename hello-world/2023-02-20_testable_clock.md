@@ -1,4 +1,4 @@
-﻿# A testable clock
+# A testable clock
 Every developer that ever build an application that has any time dependency
 knows that testing such dependencies is not straight forward. The most pressing
 issue is arguably that most programming languages (including C#, PHP, Java, SQL)

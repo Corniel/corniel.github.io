@@ -1,4 +1,4 @@
-﻿# dot Ned { Saturday }
+# dot Ned { Saturday }
 ## Single Value Objects
 
 It has been a while since I had my last real life talk during a congress (a
