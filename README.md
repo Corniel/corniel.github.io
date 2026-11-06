@@ -1,4 +1,5 @@
 # Hello, World!
+* [Techorama 2026](hello-world/2026-10-26_techorama.md)
 * [180!](hello-world/2026-09-01_180.md)
 * [Outside The Box](hello-world/2026-08-24_outside_the_box.md)
 * [dot Ned { Saturday } 2025](hello-world/2025-05-17_dot_ned_saturday.md)
